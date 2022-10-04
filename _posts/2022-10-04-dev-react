@@ -1,4 +1,8 @@
+---
+layout: single
+title: React로 개발 (참조문서)
+---
 
-
+**JSX 참조**
 jsx를 javascript로 변환하는 site
 https://babeljs.io/
